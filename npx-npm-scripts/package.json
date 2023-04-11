@@ -1,0 +1,13 @@
+{
+  "name": "npx-npm-scripts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "hello": "npx hello-world-npm",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Caike",
+  "license": "ISC"
+}
